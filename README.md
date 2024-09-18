@@ -13,7 +13,7 @@
   - T cũng đã lấy danh sách topic và filter rồi, chỉ còn lấy sách nữa thôi
 ## Lấy dữ liệu
   
-  - Sửa vị trí lấy topic ở dòng số 195 file get_book.py nha
+  - Sửa vị trí lấy filter ở dòng số 195 file get_book.py nha
     ```python
     for filter in list_filter[a:b]:
     ```
