@@ -26,5 +26,13 @@
       - T: là topic
       - F: là filter
       - B: là book
+    - Về hoạt động:
+      - get_book:
+        - Đầu tiên là đọc và lấy ra danh sách filter từ file filters_data.xlsx
+        - Đọc và lấy ra danh sách topic từ file topic_data.xlsx
+        - Lặp qua các filter được giới hạn 
+        - Tại mỗi filter thì kiểm tra xem nó thuộc topic nào để lấy link từ topic đó rồi truy cập vào web của topic tương ứng
+        - Mở web và chọn đúng filter thành công thì thực hiện lấy sách 
+        - sau khi lấy xong sách của mỗi filter, thì ghi luôn vào file books_data.xlsx danh sách của filter đó
 
 
