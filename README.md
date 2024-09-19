@@ -5,8 +5,10 @@
 [Amazon All Books](https://www.amazon.com/books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=topnav_storetab_b)
 ---
 ## Update
-  - xong Topic 1, 2, 3 + filter 1,2 của topic 8
 
+  - $\color{lime}\Large{{\textbf{xong Topic 1, 2, 3 + filter 1,2 của topic 8}}}$
+
+---
 ## Note
   - Xem topic ở trong folder data (32 topic)
   - Mỗi topic có nhiều filter (khoảng 40)
