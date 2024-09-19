@@ -3,6 +3,9 @@
 
 ## Link
 [Amazon All Books](https://www.amazon.com/books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=topnav_storetab_b)
+---
+## Update
+  - xong Topic 1, 2, 3 + filter 1,2 của topic 8
 
 ## Note
   - Xem topic ở trong folder data (32 topic)
@@ -18,8 +21,7 @@
     for filter in list_filter[a:b]:
     ```
   - lấy vị trí filter ở trong file filters_data.xlsx
-    - ví dụ: topic 1 có 40 filter thì lấy luôn vị trí kết thúc là 40
-    - tùy chỉnh theo vị trí của filter trong file excel nhá
+  - tùy chỉnh theo vị trí của filter trong file excel nhá
 ## Giải thích
 
     - về id: T1F1B2: sách thứ 2 của filter 2 thuộc topic 1
